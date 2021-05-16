@@ -1,0 +1,17 @@
+{
+  "title": "Kusuriya no Hitorogoto",
+  "description": "CM_2",
+  "artist": "Nekokurage",
+  "author": "Hyuuga, Natsu",
+  "cover": "https://i.imgur.com/xdjV6hs.jpg",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Harem's Curse",
+      "volume": "1",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/8OUAmiH/"
+      },
+      "last_updated": "1621147555"
+    }
+  }
+}
