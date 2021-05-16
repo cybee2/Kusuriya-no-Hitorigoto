@@ -1,17 +1,17 @@
 {
-   "title":"Kusuriya no Hitorigoto",
-   "description":"cm_2",
-   "artist":"Nekokurage",
-   "author":"Hyuuga, Natsu",
-   "cover":"https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/a/a5/KnH_V6_cover.jpg/revision/latest?cb=20201214112728",
-   "chapters":{
-      "1":{
-         "title":"The Harem's Curse",
-         "volume":"volume number",
-         "groups":{
-            "no group":"/proxy/api/imgur/chapter/8OUAmiH/"
-         },
-         "last_updated":"1621146541"
-      }    
-   }
+  "title": "Kusuriya no Hitorogoto",
+  "description": "CM_2",
+  "artist": "Nekokurage",
+  "author": "Hyuuga, Natsu",
+  "cover": "https://i.imgur.com/xdjV6hs.jpg",
+  "chapters": {
+    "<chapter number>": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/8OUAmiH/"
+      },
+      "last_updated": "1621147555"
+    },
+  }
 }
