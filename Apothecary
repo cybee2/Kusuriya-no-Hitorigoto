@@ -6,12 +6,28 @@
   "cover": "https://i.imgur.com/xdjV6hs.jpg",
   "chapters": {
     "1": {
-      "title": "Harem's Curse",
-      "volume": "1",
+      "title": "",
+      "volume": "",
       "groups": {
         "no group": "/proxy/api/imgur/chapter/8OUAmiH/"
       },
       "last_updated": "1621147555"
-    }
+    },
+  "2": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/KedqD56/"
+      },
+      "last_updated": "1621146541"
+    },
+  "3": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/01khu4c/"
+      },
+      "last_updated": "1621146541"
+    },
   }
 }
