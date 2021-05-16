@@ -1,6 +1,6 @@
 {
   "title": "Kusuriya no Hitorogoto",
-  "description": "CM_2",
+  "description": "Compiled by u/cm_2",
   "artist": "Nekokurage",
   "author": "Hyuuga, Natsu",
   "cover": "https://i.imgur.com/xdjV6hs.jpg",
@@ -41,7 +41,7 @@
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/dlaB55w/"
       },
       "last_updated": "1621146541"
     },
@@ -49,7 +49,7 @@
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/cnbHkCa/"
       },
       "last_updated": "1621146541"
     },
@@ -57,7 +57,7 @@
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/bPj7KcS/"
       },
       "last_updated": "1621146541"
     },
@@ -65,7 +65,7 @@
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/u8B1Y9N/"
       },
       "last_updated": "1621146541"
     },
@@ -73,11 +73,11 @@
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/j4KKLt4/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "10": {
       "title": "",
       "volume": "",
       "groups": {
@@ -85,7 +85,7 @@
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "11": {
       "title": "",
       "volume": "",
       "groups": {
@@ -93,7 +93,7 @@
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "12": {
       "title": "",
       "volume": "",
       "groups": {
@@ -101,7 +101,31 @@
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "13": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/ksyUfgO/"
+      },
+      "last_updated": "1621146541"
+    },
+    "14": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/rttNb1l/"
+      },
+      "last_updated": "1621146541"
+    },
+    "15": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "no group": "/proxy/api/imgur/chapter/tiUxsaG/"
+      },
+      "last_updated": "1621146541"
+    },
+    "16": {
       "title": "",
       "volume": "",
       "groups": {
@@ -109,211 +133,83 @@
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "17": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/eQQzcML/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "18": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/IcKZYTd/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "19": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/5MLROgI/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "20": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/mWEkm6X/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "21": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/CHxlxIo/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "22": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/X4n4S4m/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "23": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/AEOIeFa/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "24": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/63lx9Hh/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "25": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/BOLRmRu/"
       },
       "last_updated": "1621146541"
     },
-    "1": {
+    "26": {
       "title": "",
       "volume": "",
       "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
-      },
-      "last_updated": "1621146541"
-    },
-    "1": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "no group": "/proxy/api/imgur/chapter/<imgur id>/"
+        "no group": "/proxy/api/imgur/chapter/guj4QEd/"
       },
       "last_updated": "1621146541"
     }
